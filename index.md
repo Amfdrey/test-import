@@ -1,4 +1,3 @@
-<strong><img src="https://nextcloud.nwu.ac.za/index.php/s/nEDitAaKTq2PcjC">
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
